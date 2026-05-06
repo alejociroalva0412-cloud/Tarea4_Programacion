@@ -1,0 +1,3 @@
+2026-05-06 17:19:38,647 - ERROR - Fallo en operación de reserva: Los días de alquiler deben ser un número entero positivo.
+2026-05-06 17:19:38,648 - ERROR - Fallo en operación de reserva: Los días de alquiler deben ser un número entero positivo.
+2026-05-06 17:19:38,648 - ERROR - Error al crear cliente: Datos inválidos: Nombre vacío o correo sin formato @
