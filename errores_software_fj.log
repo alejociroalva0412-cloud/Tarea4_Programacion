@@ -1,3 +1,15 @@
-2026-05-06 17:19:38,647 - ERROR - Fallo en operación de reserva: Los días de alquiler deben ser un número entero positivo.
-2026-05-06 17:19:38,648 - ERROR - Fallo en operación de reserva: Los días de alquiler deben ser un número entero positivo.
-2026-05-06 17:19:38,648 - ERROR - Error al crear cliente: Datos inválidos: Nombre vacío o correo sin formato @
+2026-05-09 18:09:02,889 - ERROR - La cantidad debe ser positiva
+2026-05-09 18:09:02,889 - ERROR - La cantidad debe ser numérica
+2026-05-09 18:29:57,412 - ERROR - El nombre no puede estar vacío
+2026-05-09 18:29:57,413 - ERROR - La cantidad debe ser positiva
+2026-05-09 18:29:57,413 - ERROR - name 'asesoria' is not defined
+2026-05-09 18:29:57,413 - ERROR - name 'asesoria' is not defined
+2026-05-09 18:29:57,413 - ERROR - name 'reserva4' is not defined
+2026-05-09 18:31:15,418 - ERROR - El nombre no puede estar vacío
+2026-05-09 18:31:15,419 - ERROR - La cantidad debe ser positiva
+2026-05-09 18:31:15,419 - ERROR - name 'asesoria' is not defined
+2026-05-09 18:31:15,419 - ERROR - name 'asesoria' is not defined
+2026-05-09 18:31:15,419 - ERROR - name 'reserva4' is not defined
+2026-05-09 18:37:14,180 - ERROR - El nombre no puede estar vacío
+2026-05-09 18:37:14,181 - ERROR - La cantidad debe ser positiva
+2026-05-09 18:37:14,181 - ERROR - La cantidad debe ser numérica
